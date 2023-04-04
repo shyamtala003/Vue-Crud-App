@@ -19,7 +19,7 @@
 <script>
 import moment from "moment";
 export default {
-  name: "movieList",
+  name: "MovieList",
   props: {
     movies: {
       type: Array,
