@@ -1,7 +1,7 @@
 <script>
 import Header from "./layout/Header.vue";
-import MovieForm from "./components/movieForm.vue";
-import MovieList from "./components/movieList.vue";
+import MovieForm from "./components/MovieForm.vue";
+import MovieList from "./components/MovieList.vue";
 export default {
   name: "App",
   components: {
